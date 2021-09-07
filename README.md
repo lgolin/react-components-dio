@@ -22,7 +22,3 @@ On terminal:
 - CSS
 - Bootstrap
 - React.js
-
-## Authors
-
-**Laís Golin** - [lgolin](https://github.com/lgolin)
