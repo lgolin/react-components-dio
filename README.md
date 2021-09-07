@@ -20,7 +20,7 @@ On terminal:
 
 - HTML
 - CSS
-- Javascript
+- Bootstrap
 - React.js
 
 ## Authors
